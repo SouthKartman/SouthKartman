@@ -1,4 +1,4 @@
-# Hi, I'm Artem. Front-end developer and begginer FullStack Dev <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
+# Hi, I'm Artem. Begginer Designer, Front-end developer and begginer FullStack Dev <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
 
 ![User](https://img.shields.io/badge/I'm%20Artem-black?logo=superuser&labelColor=%23FF9A40&color=%23000) ![Arrow](https://img.shields.io/badge/My%20stack%20--%3E-black?color=%23476DD5) <br>
 
@@ -39,6 +39,14 @@
 ## Mobile Apps
 
 ![Static Badge](https://img.shields.io/badge/xamarin-BLACK?style=for-the-badge&logo=xamarin&labelColor=%23000&color=%233498DB)
+
+# Design
+![Static Badge](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&labelColor=%23000&color=%23F24E1E)
+![Static Badge](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobephotoshop&labelColor=%23000&color=%2331A8FF)
+![Static Badge](https://img.shields.io/badge/Primier-black?style=for-the-badge&logo=adobepremierepro&labelColor=%23000&color=%239999FF)
+![Static Badge](https://img.shields.io/badge/AE-black?style=for-the-badge&logo=adobeaftereffects&labelColor=%23000&color=%239999FF)
+![Static Badge](https://img.shields.io/badge/LightRoom--Classic-black?style=for-the-badge&logo=adobelightroomclassic&labelColor=%23000&color=%2331A8FF)
+
 
 
 
