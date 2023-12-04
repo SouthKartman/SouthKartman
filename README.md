@@ -1,5 +1,25 @@
 # <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"  height="30"/> Hi , I'm Artem. Begginer Designer, Front-end developer and begginer FullStack Dev  
 
+I'm an aspiring programmer, student, code explorer, and passionate technology fanatic. My GitHub profile is where I share my journey into the world of programming and technical discovery. I have experience and knowledge in various areas of web, database and mobile development.
+
+### Technologies and programming languages:
+
+- **Frontend:** HTML, CSS, JavaScript, AJAX, jQuery, GSAP, SASS, STYLUS.
+- **Backend:** PHP, Node.js (Express), TypeScript.
+- **Databases:** MySQL, MongoDB, MsSql.
+- **Frameworks and libraries:** React, Next.js, Tailwind CSS, GraphQL.
+- **Mobile development:** C#, Xamarin.
+- **Other technologies:** dotNet, GraphQL.
+
+### Education and career:
+
+- Student in the field of computer science and programming.
+- Active participation in hackathons and online programming courses.
+
+
+Join me on my journey into the world of programming, where every line of code is a new discovery! 🌐💻
+
+
 ![User](https://img.shields.io/badge/I'm%20Artem-black?logo=superuser&labelColor=%23FF9A40&color=%23000) ![Arrow](https://img.shields.io/badge/My%20stack%20--%3E-black?color=%23476DD5) <br>
 
 ## Web Native technologies
