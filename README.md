@@ -47,6 +47,9 @@
 ![AE](https://img.shields.io/badge/AE-black?style=for-the-badge&logo=adobeaftereffects&labelColor=%23000&color=%239999FF)
 ![LrC](https://img.shields.io/badge/LightRoom--Classic-black?style=for-the-badge&logo=adobelightroomclassic&labelColor=%23000&color=%2331A8FF)
 
+<br><br>
+# About
+
 I'm an aspiring programmer, student, code explorer, and passionate technology fanatic. My GitHub profile is where I share my journey into the world of programming and technical discovery. I have experience and knowledge in various areas of web, database and mobile development.
 
 ### Technologies and programming languages:
