@@ -40,7 +40,7 @@
 
 ![Static Badge](https://img.shields.io/badge/xamarin-BLACK?style=for-the-badge&logo=xamarin&labelColor=%23000&color=%233498DB)
 
-# Design
+# Design and AI
 ![Static Badge](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&labelColor=%23000&color=%23F24E1E)
 ![Static Badge](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobephotoshop&labelColor=%23000&color=%2331A8FF)
 ![Static Badge](https://img.shields.io/badge/Primier-black?style=for-the-badge&logo=adobepremierepro&labelColor=%23000&color=%239999FF)
