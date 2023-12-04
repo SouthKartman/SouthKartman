@@ -59,7 +59,7 @@ I'm an aspiring programmer, student, code explorer, and passionate technology fa
 - **Databases:** MySQL, MongoDB, MsSql.
 - **Frameworks and libraries:** React, Next.js, Tailwind CSS, GraphQL.
 - **Mobile development:** C#, Xamarin.
-- **Other technologies:** dotNet, GraphQL.
+- **Other technologies:** WPF, dotNet, GraphQL.
 
 ### Education and career:
 
