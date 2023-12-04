@@ -92,6 +92,16 @@ Join me on my journey into the world of programming, where every line of code is
 - **Мобильная разработка:** C#, Xamarin.
 - **Другие технологии:** WPF, dotNet, GraphQL.
 
+## 📚 Ищете мое резюме?
+- Английский: [Возобновить]()
+- Русский: [Резюме]()
+
+## 📬 Свяжитесь с мной
+
+- Электронная почта: [hfhdvdffvv@gmail.com](mailto:hfhdvdffvv@gmail.com)
+- Телеграмм: [t.me/South_Kartman](https://t.me/South_Kartman)
+- GitHub: [github.com/SouthKartman](https://github.com/SouthKartman)
+
 ### Обучение и карьера:
 
 - Студент в области информатики и программирования.
