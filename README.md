@@ -1,4 +1,4 @@
-# Hi, I'm Artem. Begginer Designer, Front-end developer and begginer FullStack Dev <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
+# <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"  height="30"/> Hi , I'm Artem. Begginer Designer, Front-end developer and begginer FullStack Dev  
 
 ![User](https://img.shields.io/badge/I'm%20Artem-black?logo=superuser&labelColor=%23FF9A40&color=%23000) ![Arrow](https://img.shields.io/badge/My%20stack%20--%3E-black?color=%23476DD5) <br>
 
