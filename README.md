@@ -61,6 +61,16 @@ I'm an aspiring programmer, student, code explorer, and passionate technology fa
 - **Mobile development:** C#, Xamarin.
 - **Other technologies:** WPF, dotNet, GraphQL.
 
+## 📚 Looking for my Resume?
+- English: [Resume]()
+- Русский: [Резюме]()
+
+## 📬 Get in Touch
+
+- E-mail: [hfhdvdffvv@gmail.com](mailto:hfhdvdffvv@gmail.com)
+- Telegram: [t.me/South_Kartman](https://t.me/South_Kartman)
+- GitHub: [github.com/SouthKartman](https://github.com/SouthKartman)
+
 ### Education and career:
 
 - Student in the field of computer science and programming.
