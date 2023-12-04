@@ -90,6 +90,8 @@ Join me on my journey into the world of programming, where every line of code is
 
 Присоединяйтесь к моему путешествию в мир программирования, где каждая строка кода — это новое открытие! 🌐💻
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouthKartman&layout=compact&hide_border=true&theme=dark)
+
 
 
 
