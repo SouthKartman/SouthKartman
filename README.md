@@ -80,7 +80,7 @@ Join me on my journey into the world of programming, where every line of code is
 - **Базы данных:** MySQL, MongoDB, MsSql.
 - **Фреймворки и библиотеки:** React, Next.js, Tailwind CSS, GraphQL.
 - **Мобильная разработка:** C#, Xamarin.
-- **Другие технологии:** dotNet, GraphQL.
+- **Другие технологии:** WPF, dotNet, GraphQL.
 
 ### Обучение и карьера:
 
