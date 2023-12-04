@@ -14,7 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/MY%20SQL-BLACK?style=for-the-badge&logo=mysql&labelColor=%23000&color=%234479A1)
 
 
-### CMS 
+## CMS 
 ![Static Badge](https://img.shields.io/badge/wordpress-BLACK?style=for-the-badge&logo=wordpress&labelColor=%23000&color=%2321759B)
 ![Static Badge](https://img.shields.io/badge/joomla-BLACK?style=for-the-badge&logo=joomla&labelColor=%23000&color=%235091CD)
 
