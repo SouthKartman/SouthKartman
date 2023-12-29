@@ -93,7 +93,7 @@ Join me on my journey into the world of programming, where every line of code is
 - **Другие технологии:** WPF, dotNet, GraphQL.
 
 ## 📚 Ищете мое резюме?
-- English: [Resume]()
+- English: [Resume](/Resume/EN.png)
 - Русский: [Резюме]()
 
 ## 📬 Свяжитесь с мной
