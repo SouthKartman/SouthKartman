@@ -62,8 +62,8 @@ I'm an aspiring programmer, student, code explorer, and passionate technology fa
 - **Other technologies:** WPF, dotNet, GraphQL.
 
 ## 📚 Looking for my Resume?
-- English: [Resume]()
-- Русский: [Резюме]()
+- English: [Resume](https://github.com/SouthKartman/SouthKartman/blob/main/Resume/EN.png)
+- Русский: [Резюме](https://github.com/SouthKartman/SouthKartman/blob/main/Resume/RU.png)
 
 ## 📬 Get in Touch
 
@@ -93,8 +93,8 @@ Join me on my journey into the world of programming, where every line of code is
 - **Другие технологии:** WPF, dotNet, GraphQL.
 
 ## 📚 Ищете мое резюме?
-- English: [Resume](/Resume/EN.png)
-- Русский: [Резюме]()
+- English: [Resume](https://github.com/SouthKartman/SouthKartman/blob/main/Resume/EN.png)
+- Русский: [Резюме](https://github.com/SouthKartman/SouthKartman/blob/main/Resume/RU.png)
 
 ## 📬 Свяжитесь с мной
 
