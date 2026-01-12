@@ -24,7 +24,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-BLACK?style=for-the-badge&logo=node.js&labelColor=%23000&color=%23339933)
 ![TS](https://img.shields.io/badge/TypeScript-BLACK?style=for-the-badge&logo=typescript&labelColor=%23000&color=%233178C6)
 ![React](https://img.shields.io/badge/react-BLACK?style=for-the-badge&logo=react&labelColor=%23000&color=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-BLACK?style=for-the-badge&logo=nextdotjs&labelColor=%23000&color=%23000000)
 ![Tailwind](https://img.shields.io/badge/tailwind-BLACK?style=for-the-badge&logo=tailwindcss&labelColor=%23000&color=%2306B6D4)
 ![Graph.ql](https://img.shields.io/badge/graphql-BLACK?style=for-the-badge&logo=graphql&labelColor=%23000&color=%23E10098)
 ![Moongo](https://img.shields.io/badge/Mongo-BLACK?style=for-the-badge&logo=mongodb&labelColor=%23000&color=%2347A248)
@@ -111,6 +110,7 @@ Join me on my journey into the world of programming, where every line of code is
 Присоединяйтесь к моему путешествию в мир программирования, где каждая строка кода — это новое открытие! 🌐💻
 <br><br>
  ![Top Langs South_Kartman](https://github-readme-stats.vercel.app/api/top-langs/?username=SouthKartman&layout=compact&hide_border=true&theme=dark)
+
 
 
 
