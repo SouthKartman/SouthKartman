@@ -49,7 +49,7 @@
 <br><br>
 # About
 
-I'm an aspiring programmer, student, code explorer, and passionate technology fanatic. My GitHub profile is where I share my journey into the world of programming and technical discovery. I have experience and knowledge in various areas of web, database and mobile development.
+A junior developer with a technical background and a passion for creating user-friendly interfaces. I have experience developing web interfaces, designing, and implementing UI for websites and Telegram Mini Apps. I work with HTML, CSS, JavaScript, and WPF, and am learning React and Laravel, ASP.NET, and FastAPI. I understand the interaction between the frontend and backend, and I can work with mockups and technical requirements. I am constantly developing my skills, managing my own projects and GitHub.
 
 ### Technologies and programming languages:
 
@@ -80,7 +80,7 @@ Join me on my journey into the world of programming, where every line of code is
 
 # Обо мне
 
-Я начинающий программист, студент, исследователь кода и страстный фанат технологий. Мой профиль GitHub — это место, где я делюсь своим путешествием в мир программирования и технических открытий. У меня есть опыт и знания в различных областях веб-разработки, баз данных и мобильной разработки.
+Junior-разработчик с техническим бэкграундом и интересом к созданию удобных пользовательских интерфейсов. Имею опыт разработки веб-интерфейсов, работы с дизайном и реализации UI для сайтов и Telegram Mini Apps. Работаю с HTML, CSS, JavaScript, WPF, изучаю React и Laravel, ASP.NET и FastAPI. Понимаю взаимодействие frontend и backend, умею работать с макетами и техническими требованиями. Постоянно развиваю навыки, веду собственные проекты и GitHub.
 
 ### Технологии и языки программирования:
 
@@ -110,6 +110,7 @@ Join me on my journey into the world of programming, where every line of code is
 Присоединяйтесь к моему путешествию в мир программирования, где каждая строка кода — это новое открытие! 🌐💻
 <br><br>
  ![Top Langs South_Kartman](https://github-readme-stats.vercel.app/api/top-langs/?username=SouthKartman&layout=compact&hide_border=true&theme=dark)
+
 
 
 
